@@ -1,0 +1,83 @@
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\Kalkulasi jarak.exe.config
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\Kalkulasi jarak.exe
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\Kalkulasi jarak.pdb
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\EntityFramework.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\GMap.NET.Core.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\System.Data.SQLite.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\EnvDTE.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\stdole.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\EntityFramework.xml
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\System.Data.SQLite.xml
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\obj\Debug\Kalkulasi jarak.csproj.AssemblyReference.cache
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\obj\Debug\Kalkulasi jarak.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\obj\Debug\Kalkulasi_jarak.Form1.resources
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\obj\Debug\Kalkulasi_jarak.formbaru.resources
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\obj\Debug\Kalkulasi_jarak.Properties.Resources.resources
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\obj\Debug\Kalkulasi jarak.csproj.GenerateResource.cache
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\obj\Debug\Kalkulasi jarak.csproj.CoreCompileInputs.cache
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\obj\Debug\Kalkulasi jarak.csproj.CopyComplete
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\obj\Debug\Kalkulasi jarak.exe
+C:\Users\ipbha\Documents\Kalkulasi-jarak\Kalkulasi jarak\obj\Debug\Kalkulasi jarak.pdb
