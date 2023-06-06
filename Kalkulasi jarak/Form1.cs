@@ -93,7 +93,7 @@ namespace Kalkulasi_jarak
                     rawDataAll.Add(new RawData
                     {
                         raw = datas,
-                        isNoise = true
+                        status= "Succes"
                     }) ;
                     return;
                 }
@@ -117,7 +117,7 @@ namespace Kalkulasi_jarak
                     rawDataAll.Add(new RawData
                     {
                         raw = datas,
-                        isNoise = true
+                        status = "Succes"
                     });
                     Console.WriteLine(ex.Message);
                     return;

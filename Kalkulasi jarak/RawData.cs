@@ -12,8 +12,9 @@ namespace Kalkulasi_jarak
         public string raw { get; set; }
         public string Lat { get; set; }
         public string Lng { get; set; }
-        public bool isNoise { get; set; }
+        public string status { get; set; }
         public string Sog { get; set; }
         public string Baterai { get; set; }
+        public string Waktu { get; set; }
     }
 }
