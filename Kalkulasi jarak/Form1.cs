@@ -88,40 +88,35 @@ namespace Kalkulasi_jarak
                 string[] data = datas.Split(',');
 
                 string lat, lng, sog, vbat, id;
-                if (data.Length != 6)
-                {
-                    rawDataAll.Add(new RawData
-                    {
-                        raw = datas,
-                        status= "Succes"
-                    }) ;
-                    return;
-                }
 
                 try
                 {
                     Convert.ToDouble(data[2]);
                     Convert.ToDouble(data[1]);
                     Convert.ToDouble(data[3]);
-                    rawDataAll.Add(new RawData
-                    {
-                        ID = data[0],
-                        Lat = data[1],
-                        Lng = data[2],
-                        Sog = data[3],
-                        Baterai = data[4]
-                    });
+                   
                 }
                 catch (Exception ex)
                 {
                     rawDataAll.Add(new RawData
                     {
                         raw = datas,
-                        status = "Succes"
-                    });
+                        status = "Failed",
+                        Waktu = DateTime.Now.ToString()
+                    }); 
                     Console.WriteLine(ex.Message);
                     return;
                 }
+                rawDataAll.Add(new RawData
+                {
+                    ID = data[0],
+                    Lat = data[1],
+                    Lng = data[2],
+                    Sog = data[3],
+                    Baterai = data[4],
+                    status = "Succes",
+                    Waktu = DateTime.Now.ToString()
+                }); 
                 var pelari = pelaris.FirstOrDefault(x => x.Id == data[0].Trim());
 
                 if (pelari == null)
@@ -316,8 +311,8 @@ namespace Kalkulasi_jarak
 
         private void button5_Click(object sender, EventArgs e)
         {
-            string halo = "0.23232323232323232323";
-            Convert.ToDouble(halo);
+            MessageBox.Show(rawDataAll.Count.ToString());
+            new formbaru(rawDataAll).ShowDialog();
         }
     }
 
